@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.32804.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureCustomVisionWPFApp", "AzureCustomVisionWPFApp.csproj", "{798D0D75-494B-485B-9103-A2B707FA7AEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{798D0D75-494B-485B-9103-A2B707FA7AEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{798D0D75-494B-485B-9103-A2B707FA7AEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{798D0D75-494B-485B-9103-A2B707FA7AEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{798D0D75-494B-485B-9103-A2B707FA7AEC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {01E0B432-0F4E-48E4-A481-8B017A326350}
+	EndGlobalSection
+EndGlobal

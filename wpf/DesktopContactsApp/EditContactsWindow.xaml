@@ -1,0 +1,43 @@
+﻿<Window x:Class="DesktopContactsApp.EditContactsWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DesktopContactsApp"
+        mc:Ignorable="d"
+        WindowStyle="None"
+        ResizeMode="NoResize"
+        Title="EditContactsWindow" Height="400" Width="300">
+    <Grid>
+        <StackPanel  HorizontalAlignment="Stretch">
+            <Label x:Name="FirstNameLabel" 
+                   Margin="3,3,3,0"
+                   Content="First Name">
+            </Label>
+            <TextBox x:Name="TxtFirstName" Margin="3,0,3,3">
+
+            </TextBox>
+            <Label x:Name="LastNameLabel" 
+                   Margin="3,3,3,0"
+                   Content="Last Name">
+            </Label>
+            <TextBox x:Name="TxtLastName" Margin="3,0,3,3">
+            </TextBox>
+            <Label x:Name="EmailLabel" 
+                   Margin="3,3,3,0"
+                   Content="Email">
+            </Label>
+            <TextBox x:Name="TxtEmail" Margin="3,0,3,3">
+            </TextBox>
+            <Label x:Name="MobileLabel" 
+                   Margin="3,3,3,0"
+                   Content="Mobile">
+            </Label>
+            <TextBox x:Name="TxtMobile" Margin="3,0,3,3">
+            </TextBox>
+            <Button x:Name="UpdateContactButton" Margin="5,5,5,5" Content="Update" Click="UpdateContactButton_Click"></Button>
+            <Button x:Name="DeleteContactButton" Margin="5,5,5,5" Content="Delete" Click="DeleteContactButton_Click"></Button>
+
+        </StackPanel>
+    </Grid>
+</Window>
