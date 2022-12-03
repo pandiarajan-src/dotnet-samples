@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{E7D69992-557F-4BF9-9A01-8F665E1E9B77}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="obj/Debug/net6.0/SingleCastDelegateExample.AssemblyInfo.cs">
+    <Files>
+      <File FileName="Program.cs" Line="12" Column="2" />
+      <File FileName="obj/Debug/net6.0/SingleCastDelegateExample.AssemblyInfo.cs" Line="19" Column="12" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SingleCastDelegateExample" expanded="True">
+            <Node name="SingleCastDelegateExample" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+            </Node>
+            <Node name="SingleCastDelegateLib" expanded="True">
+              <Node name="Dependencies" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.SingleCastDelegateExample PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
